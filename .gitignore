@@ -7,3 +7,6 @@
 
 # Ignorar archivos CSV de ejemplos en Semana08
 1B_RI/Semana08/dataEx/*.csv
+
+# Ignorar archivos JSON en Semana14
+2B_RI/Semana14/inverted_index.json
